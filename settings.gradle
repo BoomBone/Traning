@@ -1,0 +1,1 @@
+include ':app', ':colorball', ':contact', ':contact2', ':contact3', ':menu01', ':newcontact', ':contact5', ':contact6', ':contact7', ':contact8', ':contact9', ':circle_imageview', ':test_drawlayout', ':idcard', ':demo_test', ':test', ':test01', ':coordinatorlayout'

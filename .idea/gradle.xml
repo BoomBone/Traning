@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/circle_imageview" />
+            <option value="$PROJECT_DIR$/colorball" />
+            <option value="$PROJECT_DIR$/contact" />
+            <option value="$PROJECT_DIR$/contact2" />
+            <option value="$PROJECT_DIR$/contact3" />
+            <option value="$PROJECT_DIR$/contact5" />
+            <option value="$PROJECT_DIR$/contact6" />
+            <option value="$PROJECT_DIR$/contact7" />
+            <option value="$PROJECT_DIR$/contact8" />
+            <option value="$PROJECT_DIR$/contact9" />
+            <option value="$PROJECT_DIR$/coordinatorlayout" />
+            <option value="$PROJECT_DIR$/demo_test" />
+            <option value="$PROJECT_DIR$/idcard" />
+            <option value="$PROJECT_DIR$/menu01" />
+            <option value="$PROJECT_DIR$/newcontact" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/test01" />
+            <option value="$PROJECT_DIR$/test_drawlayout" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

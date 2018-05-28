@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Training.iml" filepath="$PROJECT_DIR$/Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circle_imageview/circle_imageview.iml" filepath="$PROJECT_DIR$/circle_imageview/circle_imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorball/colorball.iml" filepath="$PROJECT_DIR$/colorball/colorball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact/contact.iml" filepath="$PROJECT_DIR$/contact/contact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact2/contact2.iml" filepath="$PROJECT_DIR$/contact2/contact2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact3/contact3.iml" filepath="$PROJECT_DIR$/contact3/contact3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact5/contact5.iml" filepath="$PROJECT_DIR$/contact5/contact5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact6/contact6.iml" filepath="$PROJECT_DIR$/contact6/contact6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact7/contact7.iml" filepath="$PROJECT_DIR$/contact7/contact7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact8/contact8.iml" filepath="$PROJECT_DIR$/contact8/contact8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contact9/contact9.iml" filepath="$PROJECT_DIR$/contact9/contact9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinatorlayout/coordinatorlayout.iml" filepath="$PROJECT_DIR$/coordinatorlayout/coordinatorlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_test/demo_test.iml" filepath="$PROJECT_DIR$/demo_test/demo_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idcard/idcard.iml" filepath="$PROJECT_DIR$/idcard/idcard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu01/menu01.iml" filepath="$PROJECT_DIR$/menu01/menu01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newcontact/newcontact.iml" filepath="$PROJECT_DIR$/newcontact/newcontact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_drawlayout/test_drawlayout.iml" filepath="$PROJECT_DIR$/test_drawlayout/test_drawlayout.iml" />
+    </modules>
+  </component>
+</project>
